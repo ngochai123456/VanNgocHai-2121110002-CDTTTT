@@ -4,7 +4,7 @@
 Thông tin sinh viên: Văn Ngọc Hải
 
 
-Thông tin đề tại: Web bán đàn piano
+Thông tin đề tại: Web bán gấu bông
 
 
 Công nghệ: PHP-Laravel
